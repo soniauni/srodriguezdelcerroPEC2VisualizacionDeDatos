@@ -9,4 +9,4 @@ Este repositorio contiene las visualizaciones de las tres técnicas que me fuero
 
 320 UpSet: Visualizing Intersecting Sets: 
 - srodriguezdelcerro-PEC2-visualización-3.rmd: código R que implementa la visualización.
-- srodriguezdelcerro-PEC2-visualización-3.html.
+- srodriguezdelcerro-PEC2-visualización-3.html y srodriguezdelcerro-PEC2-visualización-3.doc
